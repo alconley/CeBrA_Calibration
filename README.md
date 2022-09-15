@@ -2,7 +2,7 @@
 
 Created by Alex Conley
 
-Requires HDTV by Jan Mayer
+Requires HDTV by Jan Mayer, root, and python3
 
 This is a program to energy calibrate CeBrA, get the relative width vs Energy and Efficiency of our array using calibration sources, either 60Co or 152Eu.
 
