@@ -17,7 +17,8 @@ Note: Root spectrums are cebraE0_noCuts, this might need to be adjusted
 	
 	
 152Eu
-A more complex process to get the plots becasuse there are a lot of peaks
+
+	A more complex process to get the plots becasuse there are a lot of peaks
 
 	1) Run ./1_get_spectrum_ID.sh 
 	2) Open a new terminal and run ./2_get_fits and input the fit ID of the calibration peaks
